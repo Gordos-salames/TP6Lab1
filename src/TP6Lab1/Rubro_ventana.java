@@ -125,7 +125,7 @@ public class Rubro_ventana extends javax.swing.JInternalFrame {
         for (Producto encontrar : MenuGeneral.productos) {
             if (encontrar.getRubro().equals(encontrado)) {
                 tab.addRow(new Object[]{encontrar.getCodigo(), encontrar.getDescripcion(),
-                    encontrar.getPrecio(), encontrar.getRubro(), encontrar.getStock()});
+                    encontrar.getPrecio(), encontrar.getStock()});
             }
         }
     }//GEN-LAST:event_jcRubroActionPerformed

@@ -101,7 +101,7 @@ public class PorPrecio extends javax.swing.JInternalFrame {
 
         JTBusqueda.setBackground(new java.awt.Color(255, 255, 255));
         JTBusqueda.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        JTBusqueda.setFont(new java.awt.Font("Franklin Gothic Heavy", 1, 12)); // NOI18N
+        JTBusqueda.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
         JTBusqueda.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null},

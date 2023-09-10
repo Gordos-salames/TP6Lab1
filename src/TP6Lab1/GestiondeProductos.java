@@ -46,12 +46,13 @@ public class GestiondeProductos extends javax.swing.JInternalFrame {
         jBSalir = new javax.swing.JButton();
         jBLupa = new javax.swing.JButton();
 
+        setBackground(new java.awt.Color(51, 0, 51));
         setClosable(true);
         setTitle("SuperMercado De Todo S.A");
         setToolTipText("");
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(255, 255, 153));
+        jLabel1.setForeground(new java.awt.Color(51, 0, 51));
         jLabel1.setText("Gestión de productos");
 
         jLabel2.setBackground(new java.awt.Color(255, 0, 102));
